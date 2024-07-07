@@ -15,6 +15,12 @@ public class TaubaTauba {
 		
 		
 		System.out.println("cGit develop branch here");
+		
+		System.out.println("Architect commit status message");
+
+		
+		
+		
 
 		
 >>>>>>> 1b5c596592e03911bc1f048a55761b70397e6af0
